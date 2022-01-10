@@ -1,6 +1,7 @@
 body{
     text-align: center;
     background: linear-gradient( #4287f5,#00f5ff);
+	font-family: 'Raleway', sans-serif;
 }
 img{
 	margin-top: 30px;
@@ -10,4 +11,7 @@ img:hover{
 	border:solid;
 	border-color: indianred;
 	border-width: 24px;
+}
+p{
+	font-size:45px;
 }
